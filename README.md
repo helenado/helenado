@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Helena</h1>
-<h3 align="center">💬 Problem Solver</h3>
+<h1 align="center">Hi, I'm Helena 👩‍💻</h1>
+<h3 align="center">💬 A wanna be Problem Solver</h3>
 
-### 🤵 About Me:
-- 📝 Currently on my first year of a Master in Data Science and Advanced Analytics at NOVA IMS, Portugal
-- 👨‍💻 The repositories available were developed during my Master Degree. Here you can find proposals of solutions to Machine Learning problems. 
-- ⚡ Always trying to satisfy my deeper need - curiosity
+##  About Me:
+
+- 📝 Currently on my first year of a **Master in Data Science and Advanced Analytics** at NOVA IMS, Portugal
+- 👨‍💻 The repositories available were developed during my Master Degree. Here you can find proposals of solutions to Data Science problems, essencialy. 
+- ⚡ Always trying to satisfy my deeper need - curiosity.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
