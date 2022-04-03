@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi, I'm Helena 👩‍💻</h1>
 <h3 align="center">💬 A wanna be Problem Solver</h3>
